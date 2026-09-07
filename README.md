@@ -63,8 +63,8 @@ Tarjetas: Tarjetas NFC215 (para funcionalidad NFC)
 📦 Instalación
 1. Clonar el repositorio
 bash
-git clone https://github.com/tu-usuario/card-studio.git
-cd card-studio
+git clone https://github.com/Zontrox01/Card_Studio.git
+cd Card_Studio
 2. Crear entorno virtual (recomendado)
 bash
 python -m venv venv
