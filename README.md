@@ -1,8 +1,8 @@
-Card Studio
+## Card Studio
 
 Aplicación de escritorio para el diseño e impresión de tarjetas NFC y etiquetas.
 
-##📋 Descripción
+## 📋 Descripción
 Card Studio es una suite de aplicaciones integradas para el diseño e impresión de tarjetas de identificación y etiquetas con tecnología NFC. La aplicación permite:
 
 Diseño de tarjetas de presencia personalizadas (anverso/reverso)
@@ -15,7 +15,7 @@ Generación de códigos QR dinámicos
 
 Impresión directa o exportación a PDF
 
-##✨ Características principales
+## ✨ Características principales
 Tarjetas de Presencia
 Diseño a doble cara con contenido personalizable
 
@@ -51,7 +51,7 @@ Campos fijos o variables desde Excel
 
 Líneas de corte configurables
 
-##🚀 Requisitos del sistema
+## 🚀 Requisitos del sistema
 Sistema Operativo: Windows 10 o superior
 
 Python: 3.10 o superior
@@ -60,7 +60,7 @@ Impresora: Impresora de tarjetas compatible (conexión USB)
 
 Tarjetas: Tarjetas NFC215 (para funcionalidad NFC)
 
-##📦 Instalación
+## 📦 Instalación
 1. Clonar el repositorio
 bash
 git clone https://github.com/Zontrox01/Card_Studio.git
@@ -102,7 +102,7 @@ text
     - 📁 layouts
   - 📁 dist
     - 📄 main.exe
-##🎯 Uso
+## 🎯 Uso
 Ejecutar la aplicación
 bash
 python main.py
@@ -118,7 +118,7 @@ Columna obligatoria: UID (primera columna)
 
 Columna opcional: URL (última columna para URLs)
 
-🖥️ Módulos
+## 🖥️ Módulos
 Tarjetas de Presencia
 Diseña tarjetas de identificación a doble cara con:
 
