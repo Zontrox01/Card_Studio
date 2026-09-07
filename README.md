@@ -1,4 +1,4 @@
-#Card Studio
+Card Studio
 
 Aplicación de escritorio para el diseño e impresión de tarjetas NFC y etiquetas.
 
