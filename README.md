@@ -119,7 +119,7 @@ Columna obligatoria: UID (primera columna)
 Columna opcional: URL (última columna para URLs)
 
 ## 🖥️ Módulos
-Tarjetas de Presencia
+### Tarjetas de Presencia
 Diseña tarjetas de identificación a doble cara con:
 
 Campos personalizables (Nombre, Cargo, Empresa, Email, Teléfono)
@@ -130,7 +130,7 @@ Foto y logo personalizados
 
 Vista previa en tiempo real
 
-Tarjetas NFC
+### Tarjetas Informativas
 Crea tarjetas con tecnología NFC:
 
 Carga de datos desde Excel
@@ -143,7 +143,7 @@ Generación de QR dinámico en el reverso
 
 Navegación entre registros
 
-Diseñador de Etiquetas
+### Diseñador de Etiquetas
 Editor avanzado de etiquetas:
 
 Configuración de hoja: tamaño, orientación, márgenes, sangrado
@@ -160,7 +160,7 @@ Vista previa en tiempo real
 
 Líneas de corte personalizables
 
-📝 Dependencias principales
+## 📝 Dependencias principales
 pandas: Manejo de datos Excel
 
 openpyxl: Lectura/escritura de archivos Excel
@@ -175,7 +175,7 @@ pywin32: Integración con Windows (impresión)
 
 PyInstaller: Compilación a ejecutable
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor:
 
 Fork el repositorio
@@ -188,10 +188,10 @@ Push a la rama (git push origin feature/NuevaCaracteristica)
 
 Abre un Pull Request
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
-🙏 Agradecimientos
+## 🙏 Agradecimientos
 Pillow: Biblioteca de procesamiento de imágenes
 
 ReportLab: Generación de PDFs
@@ -200,7 +200,7 @@ qrcode: Generación de códigos QR
 
 pandas: Manipulación de datos
 
-📞 Soporte
+## 📞 Soporte
 Para soporte, reporte de bugs o sugerencias, por favor abre un issue en el repositorio de GitHub.
 
 Nota: Para el funcionamiento completo de la aplicación, asegúrate de tener una impresora de tarjetas compatible conectada al sistema.
