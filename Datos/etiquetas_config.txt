@@ -1,0 +1,18 @@
+{
+  "excel_path": "C:/Card Studio/Datos/Etiquetas2.xlsx",
+  "ultimo_layout": "C:/Card Studio/Datos/layouts/A4 Horizontal 2x2.json",
+  "hoja": {
+    "ancho_mm": 210.0,
+    "alto_mm": 297.0,
+    "orientacion": "horizontal",
+    "cols": 2,
+    "rows": 2,
+    "margen_mm": 0.0,
+    "sangrado_mm": 0.0,
+    "linea_corte_preview": true,
+    "linea_corte_impresion": false,
+    "color_linea_preview": "#aaaaaa",
+    "color_linea_impresion": "#000000"
+  },
+  "ultimo_layout_dir": "C:/Card Studio/Datos/layouts"
+}
