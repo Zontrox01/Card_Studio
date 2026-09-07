@@ -1,8 +1,8 @@
-Card Studio
+#Card Studio
 
 Aplicación de escritorio para el diseño e impresión de tarjetas NFC y etiquetas.
 
-📋 Descripción
+##📋 Descripción
 Card Studio es una suite de aplicaciones integradas para el diseño e impresión de tarjetas de identificación y etiquetas con tecnología NFC. La aplicación permite:
 
 Diseño de tarjetas de presencia personalizadas (anverso/reverso)
@@ -15,7 +15,7 @@ Generación de códigos QR dinámicos
 
 Impresión directa o exportación a PDF
 
-✨ Características principales
+##✨ Características principales
 Tarjetas de Presencia
 Diseño a doble cara con contenido personalizable
 
@@ -51,7 +51,7 @@ Campos fijos o variables desde Excel
 
 Líneas de corte configurables
 
-🚀 Requisitos del sistema
+##🚀 Requisitos del sistema
 Sistema Operativo: Windows 10 o superior
 
 Python: 3.10 o superior
@@ -60,7 +60,7 @@ Impresora: Impresora de tarjetas compatible (conexión USB)
 
 Tarjetas: Tarjetas NFC215 (para funcionalidad NFC)
 
-📦 Instalación
+##📦 Instalación
 1. Clonar el repositorio
 bash
 git clone https://github.com/Zontrox01/Card_Studio.git
@@ -68,7 +68,7 @@ cd Card_Studio
 2. Crear entorno virtual (recomendado)
 bash
 python -m venv venv
-# Activar en Windows:
+Activar en Windows:
 venv\Scripts\activate
 3. Instalar dependencias
 bash
@@ -77,22 +77,32 @@ pip install -r requirements.txt
 Asegúrate de tener la siguiente estructura:
 
 text
-Card Studio/
-├── main.py
-├── requirements.txt
-├── datos/
-│   └── logo.png
-├── gui.py
-├── gui_excel.py
-├── gui_etiquetas.py
-├── editor_etiqueta.py
-├── card_designer.py
-├── card_designer_excel.py
-├── etiqueta_designer.py
-├── qr_generator.py
-├── printer.py
-└── ...
-🎯 Uso
+- 📁Card Studio/
+  - 📄 card_designer.py
+  - 📄 card_designer_excel.py
+  - 📄 editor_etiqueta.py
+  - 📄 etiqueta_designer.py
+  - 📄 gui.py
+  - 📄 gui_etiquetas.py
+  - 📄 gui_excel.py
+  - 📄 logo.ico
+  - 📄 main.py
+  - 📄 printer.py
+  - 📄 qr_generator.py
+  - 📄 requirements.txt
+  - 📁 Datos
+    - 📄 Etiquetas.xlsx
+    - 📄 Etiquetas2.xlsx
+    - 📄 caras.txt
+    - 📄 empresa.txt
+    - 📄 etiquetas_config.txt
+    - 📄 excel.txt
+    - 📄 logo.png
+    - 📁 Fotos
+    - 📁 layouts
+  - 📁 dist
+    - 📄 main.exe
+##🎯 Uso
 Ejecutar la aplicación
 bash
 python main.py
