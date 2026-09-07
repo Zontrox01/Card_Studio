@@ -100,8 +100,7 @@ text
     - 📄 logo.png
     - 📁 Fotos
     - 📁 layouts
-  - 📁 dist
-    - 📄 main.exe
+
 ## 🎯 Uso
 Ejecutar la aplicación
 bash
